@@ -14,7 +14,6 @@ Detecting deep fakes using FaceForensics dataset
 
 
 ```
-
 Final architecture used 
 ```
 <img src="https://github.com/rawatakshay/Clustering-ingred/blob/master/final_arch.png?raw=true" width="450">
@@ -25,7 +24,7 @@ Final architecture used
 ```
 Results can be seen in final_results.ipynb file
 ```
-<img src="https://github.com/rawatakshay/Clustering-ingred/blob/master/res1.png?raw=true" width="450">
+<img src="https://github.com/rawatakshay/Clustering-ingred/blob/master/res1.png?raw=true">
 
 <br />
 
