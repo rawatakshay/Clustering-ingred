@@ -2,15 +2,6 @@
 # Deep-fakes-detection
 Detecting deep fakes using FaceForensics dataset
 
-```
-Final architecture used
-```
-<img src="https://github.com/rawatakshay/Clustering-ingred/blob/master/final_arch.png?raw=true" width="410">|
-
-<br />
-
-
-
 ### Dependencies required:
 * facenet-pytorch==2.4.1
 * h5py==2.8.0
@@ -20,6 +11,26 @@ Final architecture used
 * sklearn==0.0
 * tensorflow==2.1.0
 * keras-facenet==0.3.2
+
+
+```
+
+Final architecture used 
+```
+<img src="https://github.com/rawatakshay/Clustering-ingred/blob/master/final_arch.png?raw=true" width="450">
+
+<br />
+
+
+```
+Results can be seen in final_results.ipynb file
+```
+<img src="https://github.com/rawatakshay/Clustering-ingred/blob/master/res1.png?raw=true" width="450">
+
+<br />
+
+
+
 
 
 ### Project Structure:
